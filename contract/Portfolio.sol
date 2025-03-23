@@ -2,7 +2,6 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 contract Portfolio{
-// 0x3230A166eAEbc9ECFAf987A7e7241c092f86f2c4
   struct Project{
       uint id;
       string name;
